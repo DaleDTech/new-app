@@ -1,3 +1,12 @@
+Updated Read Me
+
+# Project Objective
+
+This will be a SPA simulates a cash register and shows basic JS competancy
+
+Original Algorithm from my FreeCodeCamp Certification
+__________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
